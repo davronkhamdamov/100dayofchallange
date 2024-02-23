@@ -3,7 +3,7 @@ from datetime import datetime
 import random
 
 my_email = "xamdamovdavron6@gmail.com"
-password = "grpj idyd sjag gnam"
+password = ""
 
 
 with open("32-lesson/quote.txt", "r") as quotes:
